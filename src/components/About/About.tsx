@@ -101,7 +101,7 @@ const ChildComponent2 = ({ setClients, clients, updateParent }: Props) => {
       }
     ); 
     setClients(clientsCopy);
-    updateParent;
+    //updateParent;
   }
 
   return (
